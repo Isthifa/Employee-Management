@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=isthifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isthifa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isthifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![WhatsApp Image 2023-03-29 at 10 34 03 PM](https://user-images.githubusercontent.com/87200953/228615523-bd9c4333-03b6-4bb9-bc8e-3862c2506421.jpeg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isthifa&icon=0&color=0)](https://visitcount.itsvg.in)
